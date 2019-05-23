@@ -14,5 +14,3 @@ function johnLennonFacts(arrayOfFacts) {
   }
   return array;
 }
-
-function 
